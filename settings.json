@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "CrystalMCPE.aternos.me",
+    "port": 63457,
     "version": "1.20.1",
     "try-creative": false
   },
