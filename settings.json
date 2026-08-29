@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "CrystalMCPE.aternos.me",
-    "port": 63457,
+    "ip": "AetheriaSMPS2.exaroton.me:26608",
+    "port": 26608,
     "version": "1.20.1",
     "try-creative": false
   },
