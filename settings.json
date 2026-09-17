@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "Friendsmp-s1.aternos.me",
-    "port": 45598,
+    "ip": "CrystalMCPE.aternos.me",
+    "port": 63457,
     "version": "1.20.1",
     "try-creative": false
   },
